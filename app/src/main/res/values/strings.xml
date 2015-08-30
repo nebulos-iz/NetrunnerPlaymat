@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NetrunnerPlaymat</string>
+    <string name="app_title">Netrunner Playmat</string>
+    <string name="button_send">Send</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="pick_corp">Play as Corp</string>
+    <string name="pick_runner">Play as Runner</string>
+    <string name="open_settings">Settings</string>
+    <string name="import_deck">Import Deck</string>
+    <string name="title_activity_corp_deck_select">CorpDeckSelectActivity</string>
+    <string name="title_activity_runner_deck_select">RunnerDeckSelectActivity</string>
+    <string name="title_activity_import_deck">ImportDeckActivity</string>
+    <string name="title_activity_open_settings">OpenSettingsActivity</string>
+    <string name="select_deck">Select a Deck</string>
+    <string name="title_activity_corp_playmat">CorpPlaymatActivity</string>
+    <string name="stack">Stack</string>
+    <string name="title_activity_runner_playmat">RunnerPlaymatActivity</string>
+    <string name="new_stack">Create a new pile</string>
+    <string name="score_pile">Score pile</string>
+    <string name="tags">Tags</string>
+    <string name="credits">Credits</string>
+    <string name="clicks">Clicks</string>
+    <string name="runner_id">Runner ID</string>
+</resources>
